@@ -1,0 +1,10 @@
+[00:00:00] Build started
+[00:00:00] git clone -q --branch=master https://github.com/pratikgarala/GlobalX.git C:\projects\globalx-6akcm
+[00:00:01] git checkout -qf e869057b9029b6529a122f77b8f3531ec065bd01
+[00:00:02] msbuild "C:\projects\globalx-6akcm\GlobalX.sln" /verbosity:minimal /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
+[00:00:02] Microsoft (R) Build Engine version 14.0.25420.1
+[00:00:02] Copyright (C) Microsoft Corporation. All rights reserved.
+[00:00:02] 
+[00:00:05]   GlobalX -> C:\projects\globalx-6akcm\GlobalX\bin\Debug\GlobalX.exe
+[00:00:06] Discovering tests...OK
+[00:00:06] Build success

@@ -36,7 +36,7 @@ namespace GlobalX
                 listOfRecords = new ConvertObjectToLine().ConvertSpecificObjectToLine<Person>(sortedListOfPersons);
 
                 //Write Sorted List to File
-                WriteFile writeFile = new WriteFile(filePath.Substring(0, filePath.LastIndexOf('/') + 1) + "sortedFile.txt");
+                WriteFile writeFile = new WriteFile(filePath.Substring(0, filePath.LastIndexOf('.')) + "-sorted.txt");
                 writeFile.WriteListToFile(listOfRecords);
             }
             catch(Exception)
