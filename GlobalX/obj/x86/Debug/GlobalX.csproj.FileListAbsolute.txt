@@ -1,0 +1,5 @@
+/Users/pratikgarala/Desktop/GlobalX/GlobalX/GlobalX/bin/Debug/GlobalX.exe
+/Users/pratikgarala/Desktop/GlobalX/GlobalX/GlobalX/bin/Debug/GlobalX.pdb
+/Users/pratikgarala/Desktop/GlobalX/GlobalX/GlobalX/obj/x86/Debug/GlobalX.csproj.CoreCompileInputs.cache
+/Users/pratikgarala/Desktop/GlobalX/GlobalX/GlobalX/obj/x86/Debug/GlobalX.exe
+/Users/pratikgarala/Desktop/GlobalX/GlobalX/GlobalX/obj/x86/Debug/GlobalX.pdb
